@@ -18,3 +18,7 @@
 * nav　各種リンク（ナビゲーション）をまとめる　[sectionとは？](https://webukatu.com/wordpress/blog/11267/)
   
 * p　段落をつくる　brは改行　pで区切ってからbrで改行（デバイスの仕様があるのでbrの多用は厳禁）
+  
+* li　箇条書き（ulとセットで用いる）
+  
+* ul　順序なしのリスト 
