@@ -16,3 +16,5 @@
 * style　HTML内にCSSを直接記述できる　デメリット）量が多いと見づらい
   
 * nav　各種リンク（ナビゲーション）をまとめる　[sectionとは？](https://webukatu.com/wordpress/blog/11267/)
+  
+* p　段落をつくる　brは改行　pで区切ってからbrで改行（デバイスの仕様があるのでbrの多用は厳禁）
