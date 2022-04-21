@@ -13,4 +13,6 @@
   * ⑦name="format-detection" content="email=no,telephone=no,address=no"　各種自動リンクの無効化
   * その他は[参考サイト](https://style.potepan.com/articles/21185.html#metameta)から
   
-
+* style　HTML内にCSSを直接記述できる　デメリット）量が多いと見づらい
+  
+* nav　各種リンク（ナビゲーション）をまとめる　[sectionとは？](https://webukatu.com/wordpress/blog/11267/)
